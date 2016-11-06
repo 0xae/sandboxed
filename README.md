@@ -1,7 +1,7 @@
 # Sandboxed Vm
 Sandboxed is a small footprint virtual machine with the goal 
 
-of running insecure programs on a secury platform.
+of running insecure programs on a secure platform.
 
 
 # Building
